@@ -13,8 +13,6 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
 
 We have use weather API:
@@ -22,4 +20,4 @@ https://openweathermap.org/api
 It is used to fetch the weather condition on basis of city and country submited in the form.
 
 Applicatin will show the weather-icon, temp, max-temp, min-temp on the basis of response.
-Temperature shown ill be in celcius and upto 2 decimal place
+Temperature shown will be in celcius and upto 2 decimal place
