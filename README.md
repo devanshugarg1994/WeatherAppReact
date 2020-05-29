@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 
 
 We have use weather API:
-[https://openweathermap.org/api]
+https://openweathermap.org/api
 It is used to fetch the weather condition on basis of city and country submited in the form.
 
 Applicatin will show the weather-icon, temp, max-temp, min-temp on the basis of response.
